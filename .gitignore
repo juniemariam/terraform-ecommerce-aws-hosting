@@ -1,0 +1,12 @@
+# Exclude private keys
+final-key.pem
+
+# Exclude Terraform state files and lock files
+terraform.tfstate
+terraform.tfstate.backup
+.terraform/
+
+# Exclude system files
+.DS_Store
+.idea/
+
