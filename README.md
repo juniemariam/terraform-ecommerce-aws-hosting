@@ -1,6 +1,6 @@
 # **Terraform Infrastructure for ECommerce Website**
 
-_This repository contains the Terraform configuration files for deploying a full-fledged eCommerce web application built using Django. The infrastructure is designed to be scalable, secure, and cost-efficient, leveraging AWS services to ensure high availability and performance._
+_This repository contains the Terraform configuration files for deploying a full-fledged [eCommerce web application](https://github.com/juniemariam/ECommerceWebApp) built using Django. The infrastructure is designed to be scalable, secure, and cost-efficient, leveraging AWS services to ensure high availability and performance._
 
 ---
 
